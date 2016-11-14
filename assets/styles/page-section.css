@@ -1,0 +1,65 @@
+.page-section{
+  width: 100%;
+}
+
+.page-section__container {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.page-section__title {
+  text-align: left;
+  font-size: 2.5em;
+  margin-bottom: 30px;
+  font-weight: 300;
+}
+
+.page-section__description {
+  margin-bottom: 30px;
+  line-height: 27px;
+  font-size: 1.05em;
+}
+
+.page-section__gray-bg{
+  background-color: #f5f5f5;
+}
+
+.page-section__city-bg{
+  background-size: cover;
+}
+
+.page-section__table {
+  padding: 50px 0;
+}
+
+.page-section__menu-column {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.page-section__menu-box-space{
+  margin: 5px 20px;
+  padding: 20px 0;
+}
+
+.menu-border{
+  border-bottom: 2px solid #c5a041;
+}
+
+.page-section__menu-box-title {
+  width: 100%;
+  font-size: 1.4em;
+  font-weight: 400;
+  margin-top: 20px;
+  color: #8faee6;
+}
+
+.item {
+  font-weight: 400;
+}
+
+.price-container{
+  text-align: right;
+  margin-top: 15px;
+}

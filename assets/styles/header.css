@@ -1,0 +1,40 @@
+
+.main-header {
+  height: 600px;
+  background-image: url("../images/Banana Nutella Crepe - Dark.jpg");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  z-index: 1;
+}
+
+.header__center {
+  position: absolute;
+  top: 50%;
+  color: #fff;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.page-header {
+  height: 300px;
+  background-color: #c5a041;
+  background-image: url("https://www.transparenttextures.com/patterns/food.png");
+  /*background-image: url("../images/sayagata-400px.png");*/
+  position: relative;
+  z-index: 1;
+}
+
+.header__title{
+  font-weight: 300;
+  font-size: 4em;
+  font-family: "Kaushan Script", cursive;
+}
+
+
+.header__subtitle {
+  margin-top: 40px;
+  font-size: 1.2em;
+  font-weight: 300;
+}

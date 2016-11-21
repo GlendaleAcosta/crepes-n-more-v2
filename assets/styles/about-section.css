@@ -1,0 +1,12 @@
+.about-section__title {
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 30px;
+    font-weight: 300;
+    color: #000000;
+    font-family: "Kaushan Script", cursive;
+}
+
+.about-section__timelinebox {
+    height: 1500px;
+}

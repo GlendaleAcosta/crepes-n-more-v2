@@ -10,3 +10,7 @@
 .about-section__timelinebox {
     height: 1500px;
 }
+
+.about-section__img {
+    width: 100%;
+}
